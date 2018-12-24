@@ -1,3 +1,4 @@
+// A hello world app for express.js
 const express = require('express'),
 app = express();
 
